@@ -184,7 +184,7 @@ const Contact = () => {
                     Email
                   </h4>
                   <a 
-                    href="mailto:bvishnudatta@gmail.com" 
+                    href="mailto:abhijithkora1905@gmail.com" 
                     className="text-lg hover:text-blue-400 transition-colors"
                   >
                     abhijithkora1905@gmail.com
