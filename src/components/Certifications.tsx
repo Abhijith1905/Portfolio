@@ -65,9 +65,7 @@ const Certifications = () => {
 
       <div className="section-container">
         <div className="mb-16 text-center">
-          <div className="inline-block px-3 py-1 text-sm font-medium rounded-full bg-purple-500/10 text-purple-400 mb-4">
-            Achievements
-          </div>
+        
           <h2 className="section-title">My Certifications</h2>
           <p className="section-subtitle">
             Professional certifications that validate my skills and expertise
