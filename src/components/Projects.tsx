@@ -32,7 +32,7 @@ const Projects = () => {
         {
       title: "StreamLytics : Serverless Audio Streaming Platform with Realtime Analytics",
       description: "A full-stack web application built with Serverless Services of AWS.",
-      image: "../../public/images/Streamlytics.png",
+      image: "/images/Streamlytics.png",
       tags: ["React", "Lambda", "Dynamo DB" ,"S3", "Cloudfront" , "Cognito"],
       codeLink: "https://github.com/Abhijith1905/ServerlessApplicationStreamlytics.git",
       period: "Dec 2024 - Apr 2025",
@@ -40,7 +40,7 @@ const Projects = () => {
     {
       title: "EduSupport : Portfolio And Project Management System",
       description: "A full-stack web application built with React and SpringBoot.",
-      image: "../../public/images/edusupport.png",
+      image: "/images/edusupport.png",
       tags: ["React", "SpringBoot", "MySQL"],
       codeLink: "https://github.com/Abhijith1905/SDP19Backend.git",
       period: "Aug 2024 - Nov 2024",
@@ -48,7 +48,7 @@ const Projects = () => {
     {
       title: "Stock Management System",
       description: "A full-stack web application built with Java EE",
-      image: "../../public/images/StockManagementSystem.png",
+      image: "/images/StockManagementSystem.png",
       tags: ["JSF", "EJB", "JPA", "MySQL"],
       codeLink: "https://github.com/Abhijith1905/StockManagementSystemEP.git",
       period: "Jun 2024 - Jul 2024",
@@ -56,7 +56,7 @@ const Projects = () => {
     {
       title: "Personal Portfolio Website",
       description: "An online portfolio application showcasing my skills and projects.",
-      image: "../../public/images/portfolio.jpeg",
+      image: "/images/portfolio.jpeg",
       tags: ["React"],
       codeLink: "https://github.com/Abhijith1905/portfolio.git",
       period: "Aug 2023 - Nov 2023",
@@ -64,7 +64,7 @@ const Projects = () => {
     {
       title: "Acadamex : Student Course Management System",
       description: "A full-stack web application built with React and Node.js.",
-      image: "../../public/images/acadamex.png",
+      image: "/images/acadamex.png",
       tags: ["React", "Express", "MongoDB"],
       codeLink: "https://github.com/Abhijith1905/MERNSDPBackend.git",
       period: "Aug 2023 - Nov 2023",
