@@ -40,7 +40,7 @@ const Projects = () => {
     {
       title: "EduSupport : Portfolio And Project Management System",
       description: "A full-stack web application built with React and SpringBoot.",
-      image: "/images/edusupport.png",
+      image: "/images/EduSupport.png",
       tags: ["React", "SpringBoot", "MySQL"],
       codeLink: "https://github.com/Abhijith1905/SDP19Backend.git",
       period: "Aug 2024 - Nov 2024",
@@ -64,7 +64,7 @@ const Projects = () => {
     {
       title: "Acadamex : Student Course Management System",
       description: "A full-stack web application built with React and Node.js.",
-      image: "/images/acadamex.png",
+      image: "/images/Acadamex.png",
       tags: ["React", "Express", "MongoDB"],
       codeLink: "https://github.com/Abhijith1905/MERNSDPBackend.git",
       period: "Aug 2023 - Nov 2023",
